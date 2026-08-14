@@ -16,16 +16,11 @@
   </a>
 
   <p align="center">
-    <a
-      href="https://www.linkedin.com/in/shashank-y-94b5432bb"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <img
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn"
-      />
-    </a>
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-y-94b5432bb)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/shashusu4623)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SHASHANK4623/)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashusu4623@gmail.com)
   </p>
 
   <!-- 🐍 Animated Contribution Snake Graph -->
