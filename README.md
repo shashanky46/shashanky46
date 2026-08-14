@@ -38,7 +38,7 @@
     />
 
 <source
-      media="(prefers-color-scheme: dark)"
+      media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/shashanky46/shashanky46/output/github-contribution-grid-snake.svg"
     />
 
